@@ -1,0 +1,3 @@
+﻿  program3_2.c
+c:\users\junye\onedrive\바탕 화면\workspace\c언어\day05\day05\program3_2.c(4): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Day05.vcxproj -> C:\Users\junye\OneDrive\바탕 화면\WorkSpace\C언어\Day05\Debug\Day05.exe
